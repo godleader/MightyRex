@@ -1,0 +1,49 @@
+{"main_1":"\/MightyRex\/croppedSyms\/sym_01.png", "main_2":"\/MightyRex\/croppedSyms\/sym_02.png", "main_3":"\/MightyRex\/croppedSyms\/sym_03.png", "main_4":"\/MightyRex\/croppedSyms\/sym_04.png", "main_5":"\/MightyRex\/croppedSyms\/sym_05.png", "main_6":"\/MightyRex\/croppedSyms\/sym_06.png", "main_7":"\/MightyRex\/croppedSyms\/sym_07.png", "main_8":"\/MightyRex\/croppedSyms\/sym_08.png", "main_9":"\/MightyRex\/croppedSyms\/sym_09.png", "main_10":"\/MightyRex\/croppedSyms\/sym_10.png", "main_11":"\/MightyRex\/croppedSyms\/sym_11.png", "main_12":"\/MightyRex\/croppedSyms\/sym_12.png", "free_2":"\/MightyRex\/croppedSyms\/sym_02_fg.png", "free_3":"\/MightyRex\/croppedSyms\/sym_03_fg.png", "free_4":"\/MightyRex\/croppedSyms\/sym_04_fg.png", "free_5":"\/MightyRex\/croppedSyms\/sym_05_fg.png"}
+[Embed(source = "../../gamescontent/1024_COMMON/MightyRex/game/main/sim_small.png")] public var class_smallsym_main:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/sim_small_fg.png")] public var class_smallsym_free:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_01.png")] public var class_sym_main_1:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_02.png")] public var class_sym_main_2:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_03.png")] public var class_sym_main_3:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_04.png")] public var class_sym_main_4:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_05.png")] public var class_sym_main_5:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_06.png")] public var class_sym_main_6:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_07.png")] public var class_sym_main_7:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_08.png")] public var class_sym_main_8:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_09.png")] public var class_sym_main_9:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_10.png")] public var class_sym_main_10:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_11.png")] public var class_sym_main_11:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/sym_12.png")] public var class_sym_main_12:Class;
+
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/sym_02_fg.png")] public var class_sym_free_2:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/sym_03_fg.png")] public var class_sym_free_3:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/sym_04_fg.png")] public var class_sym_free_4:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/sym_05_fg.png")] public var class_sym_free_5:Class;
+
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/top_name.png")] public var class_asset_top_name:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/top_name_fg.png")] public var class_asset_top_name_fg:Class;
+
+    [Embed(source = "../../gamescontent/1024_COMMON/MightyRex/game/main/top_jp.png")]    public var class_asset_top_jackpot:Class;
+[Embed(source = "../../gamescontent/1024_COMMON/MightyRex/game/main/top_jp_digits.png")] public var class_asset_top_jackpot_digits:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/help/background_paytable.png")] public var class_asset_paytab:Class;
+    [Embed(source = "../../gamescontent/1024_COMMON/MightyRex/game/help/background_help.png")] public var class_asset_paytab_help:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/MainMightyRex_1024_background_1920.jpg")] public var class_asset_background_online_1920:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/main/background.png")] public var class_asset_background_main:Class;
+    [Embed(source="../../gamescontent/1024_COMMON/MightyRex/game/free/background_fg.png")] public var class_asset_background_free:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_01_scatter.mp3")]  public var class_sound_sym_main_1:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_02.mp3")]  	public var class_sound_sym_main_2:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_03.mp3")]  	public var class_sound_sym_main_3:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_04.mp3")]  	public var class_sound_sym_main_4:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_05.mp3")]  	public var class_sound_sym_main_5:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_06.mp3")]  	public var class_sound_sym_main_6:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_07.mp3")]  	public var class_sound_sym_main_7:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_08.mp3")]  	public var class_sound_sym_main_8:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_09.mp3")]  	public var class_sound_sym_main_9:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_10.mp3")]  	public var class_sound_sym_main_10:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_11.mp3")]  	public var class_sound_sym_main_11:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/sym_12_wild.mp3")]  	public var class_sound_main_wild:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/main_attract.mp3")] public var class_sound_main_attraction:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/main_autospin.mp3")]  public var class_sound_main_auto_spin:Class;
+[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/fg_background_loop.mp3")]  public var class_sound_fg_background_loop:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/fg_wait_loop.mp3")]  public var class_sound_fg_wait_loop:Class;
+	[Embed(source="../../gamescontent/1024_COMMON/MightyRex/sounds/fg_end.mp3")]  public var class_sound_fg_end:Class;
+[Embed(source = "../../gamescontent/1024_COMMON/MightyRex/game/help/paytable_digits_small.png")] public var class_asset_digits_pay:Class;

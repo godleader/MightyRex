@@ -1,0 +1,11 @@
+{
+    "name": "your-project",
+    "version": "1.0.0",
+    "main": "api/server2.js",
+    "scripts": {
+      "start": "node api/server2.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
